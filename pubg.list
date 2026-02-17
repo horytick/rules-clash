@@ -1,1 +1,10 @@
-DOMAIN-SUFFIX,playbattlegrounds.com
+  # 绝地求生相关域名
+DOMAIN-KEYWORD,pubg
+DOMAIN-KEYWORD,battlegrounds
+DOMAIN-KEYWORD,pubg.com
+DOMAIN-KEYWORD,pubg.co.kr
+DOMAIN-KEYWORD,battleye.com
+
+# 补充IP规则（部分节点需要）
+IP-CIDR,103.110.123.0/24
+IP-CIDR,203.104.130.0/24
